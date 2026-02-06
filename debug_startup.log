@@ -1,0 +1,23 @@
+
+> cp-app@0.1.0 dev
+> next dev
+
+≡ƒöì DEBUG: NEXT_PUBLIC_SUPABASE_URL = https://ezidsdfznygqpqtedxfs.supabase.co
+Γû▓ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.100.15:3000
+- Environments: .env.local
+
+Γ£ô Starting...
+Γ£ô Ready in 2.4s
+ GET / 200 in 1333ms (compile: 866ms, render: 467ms)
+ΓÜá Found a change in next.config.ts. Restarting the server to apply the changes...
+Γû▓ Next.js 16.1.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.100.15:3000
+- Environments: .env.local
+
+Γ£ô Starting...
+Γ£ô Ready in 2.4s
+ GET / 200 in 2.3s (compile: 1877ms, render: 466ms)
+ GET / 200 in 176ms (compile: 19ms, render: 157ms)
